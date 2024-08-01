@@ -21,7 +21,7 @@ class CreatePaquetesImgTable extends Migration
             $table->timestamps();
 
             // Define foreign key constraint
-            $table->foreign('paquete_id')->references('id')->on('paquetes')->onDelete('cascade');
+            //$table->foreign('paquete_id')->references('id')->on('paquetes')->onDelete('cascade');
         });
     }
 

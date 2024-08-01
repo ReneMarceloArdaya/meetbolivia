@@ -39,7 +39,7 @@
 							<li class="nav-item active"><a class="nav-link" href="#top">Home</a></li>
 							<li class="nav-item"><a class="nav-link" href="#about">About</a></li>
 							<li class="nav-item"><a class="nav-link" href="#services">Services</a></li>
-							<li class="nav-item"><a class="nav-link" href="{{route('packages')}}">Portfolio</a></li>
+							<li class="nav-item"><a class="nav-link" href="{{route('packages')}}">Paquetes</a></li>
 							
 							<li class="nav-item"><a class="nav-link" href="{{route('contact')}}">Contact</a></li>
                             <li class="nav-item submenu dropdown">
